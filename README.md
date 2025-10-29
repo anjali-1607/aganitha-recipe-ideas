@@ -62,19 +62,7 @@ npm run preview
 
 ---
 
-## 🗂️ Project Structure
 
-```
-src/
- ├─ components/
- │   ├─ SearchBar.jsx
- │   └─ RecipeCard.jsx
- ├─ App.jsx
- ├─ main.jsx
- └─ index.css
-```
-
----
 
 ## 🔗 API Reference
 
@@ -122,13 +110,6 @@ If `meals` is `null`, no results are found.
 * [x] ChatGPT conversation link (shared as Level 1)
 * [x] GitHub repository with README (Level 3)
 * [x] Candidate ID included → `Naukri1025`
-
----
-
-## 🪪 License
-
-MIT © 2025 Rishabh Sahu
-
 ---
 
 **Thank you Aganitha team for reviewing this submission 💡**
