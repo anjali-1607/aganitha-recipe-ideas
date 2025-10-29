@@ -4,8 +4,8 @@ A simple web app to find **recipe ideas by ingredient** using the free **TheMeal
 Built as part of the **Aganitha Full Stack Developer** take-home challenge.
 
 > **Candidate ID :** Naukri1025
-> **Live Demo :** 🖐 *Add your CodeSandbox / StackBlitz link here*
-> **ChatGPT Link (Level 1)** : 🖐 *Add your ChatGPT conversation link here*
+> **Live Demo :** 🖐 *https://stackblitz.com/github/anjali-1607/aganitha-recipe-ideas?file=README.md*
+> **ChatGPT Link (Level 1)** : 🖐 *https://chatgpt.com/share/6901d924-1a40-800c-b99b-c5a07f43b192*
 
 ---
 
